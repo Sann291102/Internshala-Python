@@ -1,4 +1,5 @@
 class Car:
+    cars=999999
     def __init__(self, name ,Colour, Company, Model, Registration):
         self.name=name
         self.colour=Colour
@@ -13,6 +14,7 @@ print(car_1.colour)
 print(car_1.company)
 print(car_1.model)
 print(car_1.reg)
+print(car_1.cars)
 car_2=Car("Vivek", "White", "Audi", "Audi R8", "TG 1  0001")
 print(car_2.name)
 print(car_2.colour)
