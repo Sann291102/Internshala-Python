@@ -1,0 +1,100 @@
+Data can be words numbers sentences
+Data type is a classification of data  
+Numerics
+
+1.Numeric Literal:
+
+->It refers to a fixed value in the source code.
+
+->Eg:X = 10(Where 10 is Literal value)
+->Because the value X is fixed the -value is assigned in-built.
+
+->Python identifies 3 type they are 
+(Interger, float, complex).
+
+2.Other integers types:
+
+->(Binary, octal , hexadecimals)
+
+->Eg: 
+Binary = (0110, 0011)
+Octal = (0012, 0o30,0o64)
+Hexadecimal = (0x12, 0x21).
+
+3.Arthemetic operators.
+
+3.String Data Types.
+
+->Character it self have the Index starting with Zero.
+
+-> Formats specifics.
+
+(
+%c = Character, 
+%s = string conversion via str() prior to formatting.
+%i = signed decimal integer.
+%d = signed decimal integer.
+%u = unsigned decimal integer.
+%o = Octal interger.
+%x = hexadecimal integer.)
+
+4.Methods for string processing.
+there are many methods in string processing they are as follows.
+(capitalize(), upper(), lower(), title(), find(), index(), count(), isalpha(), is digit(), islower(), issupper(),)
+
+5. List and Tuple.
+
+-> Both the list and tuple are ordered Collection of data types in python.
+
+-> List : List is mutable we can store various types of data in list.
+we note it with [] brackets.
+bucketlist=[].
+
+->Tuple : Tuple is unmuttale. we can store all types of data in tuple.
+We note it with()Brackets.
+buckettuple = ().
+
+6. Set:
+
+->Set is also a collection of data types but however it is not an ordered collection of data objects.
+
+-> In set operations indexing and slicing is not possible.
+
+-> Set deosnot allow duplicate objects to be stored like list and tuple.
+
+-> Set is defined to mathematics.
+
+-> Set object has suitable methods to perform mathematic Problems.
+
+-> The set operations are as follows they are : 
+
+-> Set() function has a inbuilt function set() using which set objects can construct out of any sequence like string , list or tuple object.
+
+->In set we can either modify like we do it in list with the methods using like :(add(), update(), clear, copy() , discard(), remove() ).
+
+-> To define set we use "Double Quotes".
+
+-> We can perform set operation with various function like (union(), intersection(), difference() , symmetricdifference().).
+
+-> We know that python contains some built in functions to identify lists or tuple they are (len(), mac(), min(), ).
+-> wit the len() function we will know how many items we have in the particular list.
+
+->with max() it is used to identify the max number in any list or tuple that existed.
+
+-> We can manipulate the list using functions like (append(), insert(), remove(), pop(), reverse(), sort(), ).
+
+-> To convert one sequence type to another sequence type. They are (list(), tuple(). )
+
+7. Dictionary data type.
+
+-> Dictionary is not an ordered like list or tuple but in dictionary you can use list or tuple.
+
+-> Built in fucntions for dictionaries in python are as follows (del , pop(), clear(),) 
+(len(), max(), min() can also be used in Dict).
+
+-> To delete any items in dictionary we use (del()) function. its parenthesis.
+
+-> Same thing happens with the pop() function in python dict. We can use use clear() to delete.
+
+
+-

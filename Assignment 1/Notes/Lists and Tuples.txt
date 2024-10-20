@@ -1,0 +1,12 @@
+Lists and Tuples
+
+It is a collection of same or different datatypes.,
+lists uses []
+fruits = ['apple', 'vivek', 50]
+Tuples
+It is used for coordinates , colours, rectangles etc..
+Tuples uses ()
+Eg
+position = (2 , 3)
+colour = (255,255,255)
+print(colour)
